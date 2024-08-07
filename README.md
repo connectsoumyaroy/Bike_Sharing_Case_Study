@@ -1,7 +1,7 @@
 Certainly! Here's a project README that outlines the problem, business goal, insights, and recommendations:
 
 ---
-
+https://github.com/connectsroy/Bike_Sharing_Case_Study/blob/151b319eac90c713b4f8efcba8f17fb6bbad812d/229470317-1fa462ee-f089-41e1-9731-0fdf98e9f85c.png
 # BoomBikes Demand Forecasting
 
 ## Project Overview
