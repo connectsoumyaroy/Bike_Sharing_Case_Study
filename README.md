@@ -17,7 +17,7 @@ By achieving these objectives, BoomBikes aims to better meet customer needs, out
 ## Business Goal
 
 The goal is to model the demand for shared bikes using the available independent variables. This model will help the management understand how demand varies with different features. The insights gained will enable them to adjust their business strategy to meet demand levels and satisfy customer expectations, providing a clear understanding of the demand dynamics in a new market.
-
+![Bike Sharing Demand](https://github.com/connectsroy/Bike_Sharing_Case_Study/blob/151b319eac90c713b4f8efcba8f17fb6bbad812d/229470317-1fa462ee-f089-41e1-9731-0fdf98e9f85c.png)
 ## Insights
 
 ### Seasonal Demand
